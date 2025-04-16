@@ -1,4 +1,4 @@
-baseurl: https://github.com/cangman24/7blog.github.io
+baseurl:https://7manblog.vercel.app/
 languageCode: en-us
 theme: hugo-theme-stack
 title: 7blog
